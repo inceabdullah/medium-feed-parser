@@ -1,6 +1,8 @@
 # Medium Feed Parser
 
-### install
+Medium rss feed parser. It parses content:encoded
+
+## Install
 
 `npm i medium-feed-parser`
 
